@@ -12,3 +12,6 @@ This lab task also includes **Part 8**, where you can freely choose one task fro
 ### Lab Task 01 Submission Guide
 
 Create a repository on your GitHub account and name it `[last_name]_[first_name]_LabTask`. For each Lab Task, create a folder named `LabTask01` (and `LabTask02`, `LabTask03`, etc. for subsequent tasks). Push the latest version of the Jupyter notebook related to that Lab Task, along with any other necessary files required for submission, into the corresponding folder.
+
+### Lab Task 01 Due Date
+23:55 - Friday - May 15th
